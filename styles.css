@@ -1,0 +1,24 @@
+*{
+    padding:0px;
+    margin : 0px;
+    color: white;
+}
+
+#navbar {
+    height: 60px;
+    background-color: black;
+}
+button { 
+    background-color: rgb(88, 32, 153);
+
+}
+#logo {
+    color: #f08804;
+}
+a{
+    margin-right: 200px; 
+    text-decoration: none;
+}
+
+
+
